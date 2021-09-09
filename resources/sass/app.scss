@@ -1,1 +1,16 @@
-//
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    color:white;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/d2/2f/22/d22f225381a4f98e3e242510c42f294f.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+@import 'home';

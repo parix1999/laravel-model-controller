@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  color: white;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/d2/2f/22/d22f225381a4f98e3e242510c42f294f.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 1000px;
+  margin: 50px auto;
+}
+
+.box-image {
+  width: 200px;
+}
+
+.box-image img {
+  width: 100%;
+}
+
+.allineamento {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+

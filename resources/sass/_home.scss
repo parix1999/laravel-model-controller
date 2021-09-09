@@ -1,0 +1,17 @@
+.container {
+    width:1000px;
+    margin:50px auto;   
+}
+
+.box-image {
+    width:200px;
+    img{
+        width:100%; 
+    }
+}
+
+.allineamento {
+    margin-top:20px;
+    display: flex; 
+    justify-content: space-between;
+}
