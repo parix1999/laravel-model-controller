@@ -13,4 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+// Qui quando è senza niente nell'url si trova su HomePage@index; index è il collegamento per la route;
 Route::get('/', 'HomePage@index');
